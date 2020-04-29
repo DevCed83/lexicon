@@ -1,0 +1,10 @@
+29/04/2020 20h00
+expression besoin : 
+Un support numérique qui permet de reviser du vocabulaire en anglais "on the fly" - de façon non solicité par l'utilisateur - on nourrit/gave l'utilisateur avec des notifications. 
+Le vocabulaire est préalablement rentré dans une base de données. 
+La base de données est partagée par tout les clients d'un même groupe d'utilisateur (tout les élèves d'une même classe)
+L'utilissateur peux sortir du logiciel/app à tout moment. 
+
+Analyse de l'existant : 
+Anki : application de flashcards avec une base de données de jeu de carte peuplé par les utilisateurs, systeme de notation, plateforme mobile (app) et site web (administration des collections pour les utilisateurs)
+
