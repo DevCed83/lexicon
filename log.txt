@@ -1,10 +1,20 @@
 29/04/2020 20h00
-expression besoin : 
-Un support numérique qui permet de reviser du vocabulaire en anglais "on the fly" - de façon non solicité par l'utilisateur - on nourrit/gave l'utilisateur avec des notifications. 
-Le vocabulaire est préalablement rentré dans une base de données. 
+expression besoin :
+Un support numérique qui permet de reviser du vocabulaire en anglais "on the fly" - de façon non solicité par l'utilisateur - on nourrit/gave l'utilisateur avec des notifications?
+Le vocabulaire est préalablement rentré dans une base de données.
 La base de données est partagée par tout les clients d'un même groupe d'utilisateur (tout les élèves d'une même classe)
-L'utilissateur peux sortir du logiciel/app à tout moment. 
+L'utilissateur peux sortir du logiciel/app à tout moment.
 
-Analyse de l'existant : 
+Analyse de l'existant :
 Anki : application de flashcards avec une base de données de jeu de carte peuplé par les utilisateurs, systeme de notation, plateforme mobile (app) et site web (administration des collections pour les utilisateurs)
 
+User Story :
+L'utilisateur veut rentrer un nouveau mot et sa traduction dans la base de données.
+Il lance Lexicon. L'interface graphique (GUI) s'affiche.
+La GUI présente une question à l'utilisateur. L'utilisateur essaye d'y répondre. Lexicon affiche la réponse correcte.
+	Si l'utilisateur a fait une faute, il doit taper la réponse correcte et la valider.
+	Sinon, lexicon passe à la question suivante.
+Au bout de trois questions, en plus de l'interface de question/réponse habituelle, Lexicon affiche un bouton pour entrer une nouvelle référence.
+
+Fonctionnalité à prévoir :
+	notification push pour rappeler l'ajout quotidien d'une ou plusieurs nouvelles références.
