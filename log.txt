@@ -17,4 +17,4 @@ La GUI présente une question à l'utilisateur. L'utilisateur essaye d'y répond
 Au bout de trois questions, en plus de l'interface de question/réponse habituelle, Lexicon affiche un bouton pour entrer une nouvelle référence.
 
 Fonctionnalité à prévoir :
-	notification push pour rappeler l'ajout quotidien d'une ou plusieurs nouvelles références.
+	notification push pour rappeler l'ajout quotidien d'une ou plusieurs nouvelles références (interaction avec le système)
