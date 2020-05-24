@@ -23,10 +23,10 @@ class Gui(tk.Tk):
 		self.add_idiom_button.pack()
 
 	def verify_answer(self):
-		
+		pass
 		
 	def add_entry(self):
-		print ('adding entry')
+		pass
 
 if __name__ == "__main__":
 	gui = Gui()
